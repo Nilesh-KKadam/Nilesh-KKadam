@@ -1,4 +1,4 @@
-## 💫 About Me:
+## 💫 About Me:     
 ## About Me<br><br>Hi, I’m a passionate **Java Full Stack Developer** with experience in building scalable web applications and backend systems. I enjoy working across the full development lifecycle — from designing responsive user interfaces to developing secure and efficient backend services.<br><br>### 💻 Tech Stack<br><br>* **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap<br>* **Backend:** Java, Spring Boot, Hibernate<br>* **Database:** MySQL, PostgreSQL<br>* **Tools & Platforms:** Git, GitHub, Maven, REST APIs, Docker<br><br>### 🚀 What I Do<br><br>* Develop full stack web applications using Java technologies<br>* Build RESTful APIs and microservices<br>* Create responsive and user-friendly interfaces<br>* Optimize application performance and scalability<br>* Continuously learn and explore new technologies<br><br>### 🌱 Currently Learning<br><br>* Microservices Architecture<br>* Cloud & DevOps tools<br>* Advanced Spring Ecosystem<br><br>### 📫 Connect With Me<br><br>* GitHub: Your GitHub Link<br>* LinkedIn: Your LinkedIn Link<br>* Email: [nileshkadam1118@gmail.com]<br><br>> “Code. Learn. Build. Repeat.”<br>
 
 
